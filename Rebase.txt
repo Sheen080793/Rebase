@@ -1,6 +1,5 @@
 REBASE CHECKING
 
-REBASE VALUES
-test
+refactoring #4
 
 REBASE CLOSING
